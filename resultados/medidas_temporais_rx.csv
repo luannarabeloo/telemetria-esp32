@@ -1,0 +1,8 @@
+"tecnica","modo","amostras_verificadas","verificacao_min_us","verificacao_media_us","verificacao_max_us","recuperacoes","recuperacao_media_us"
+"CHECKSUM_1_COMPLEMENTO","0","1000","1","1,199","2","0","0"
+"CHECKSUM_1_COMPLEMENTO","1","996","1","1,276","10","4","19997"
+"CHECKSUM_1_COMPLEMENTO","2","995","1","1,32","10","5","20004,8"
+"CHECKSUM_1_COMPLEMENTO","3","993","1","1,23","10","7","19996,1"
+"CRC8_POLY_07","1","996","2","2,57","12","4","19999"
+"CRC8_POLY_07","2","997","2","2,601","12","3","19998,3"
+"CRC8_POLY_07","3","984","2","2,507","12","16","19999,1"

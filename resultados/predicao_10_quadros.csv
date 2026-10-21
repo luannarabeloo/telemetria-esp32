@@ -1,0 +1,8 @@
+"tecnica","modo","prob_OK_percent","prob_CORROMPIDO_percent","prob_PERDIDO_percent","prob_NAO_DETECTADO_percent","previsao_10_OK","previsao_10_CORROMPIDO","previsao_10_PERDIDO","previsao_10_NAO_DETECTADO"
+"CHECKSUM_1_COMPLEMENTO","0","100","0","0","0","10","0","0","0"
+"CHECKSUM_1_COMPLEMENTO","1","81,6","18","0,4","0","8","2","0","0"
+"CHECKSUM_1_COMPLEMENTO","2","65,1","34,3","0,5","0,1","7","3","0","0"
+"CHECKSUM_1_COMPLEMENTO","3","40,4","58,9","0,7","0","4","6","0","0"
+"CRC8_POLY_07","1","80,7","18,9","0,4","0","8","2","0","0"
+"CRC8_POLY_07","2","65,5","34,2","0,3","0","7","3","0","0"
+"CRC8_POLY_07","3","39,9","58,4","1,6","0,1","4","6","0","0"

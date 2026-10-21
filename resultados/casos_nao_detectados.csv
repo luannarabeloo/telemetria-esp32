@@ -1,0 +1,3 @@
+﻿"tecnica","modo","slot","seq_esperada","seq_rx","len","p0_rx","p1_rx","det_rx","residuo","decisao","p0_real","p1_real","payload_confere","status","estado_seq","lacuna_seq","tempo_verificacao_us","tempo_recuperacao_us","timestamp_us","arquivo_origem"
+"CHECKSUM_1_COMPLEMENTO","2","569","38","38","02","38","8D","FF","FF","ACEITO","FF","38","NAO","NAO_DETECTADO","EM_ORDEM","0","1.000","0","1593970863","rx_modo_2_2026-10-20_20-16-19.csv"
+"CRC8_POLY_07","3","53","34","34","02","0F","04","F8","00","ACEITO","FF","34","NAO","NAO_DETECTADO","EM_ORDEM","0","3.000","0","1040155007","rx_modo_3_2026-10-20_20-37-51.csv"

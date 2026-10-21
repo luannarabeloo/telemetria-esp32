@@ -1,0 +1,4 @@
+tecnica,modo,slot,quadro_enviado,quadro_recebido,residuo,decisao,status,log_ruido,mudou_mask,xor_p0,xor_p1,xor_deteccao,arquivo_rx,arquivo_ruido
+CHECKSUM_1_COMPLEMENTO,2,569,"38 02 FF 38 8D","38 02 38 8D FF",FF,ACEITO,NAO_DETECTADO,"B0.b5|B3.b6",0x03,C7,B5,72,rx_modo_2_2026-10-20_20-16-19.csv,ruido_modo_2_2026-10-20_20-16-16.csv
+CRC8_POLY_07,3,53,"34 02 FF 34 7C","34 02 0F 04 F8",00,ACEITO,NAO_DETECTADO,"B1.b0|B1.b1|B1.b2|B1.b3|B1.b4|B1.b5|B1.b6|B1.b7",0xEF,F0,30,84,rx_modo_3_2026-10-20_20-37-51.csv,ruido_modo_3_2026-10-20_20-37-46.csv
+

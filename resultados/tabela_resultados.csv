@@ -1,0 +1,8 @@
+﻿"tecnica","modo","OK","CORROMPIDO","PERDIDO","NAO_DETECTADO","total","taxa_nao_deteccao_percentual"
+"CHECKSUM_1_COMPLEMENTO","0","1000","0","0","0","1000","0"
+"CHECKSUM_1_COMPLEMENTO","1","816","180","4","0","1000","0"
+"CHECKSUM_1_COMPLEMENTO","2","651","343","5","1","1000","0,2907"
+"CHECKSUM_1_COMPLEMENTO","3","404","589","7","0","1000","0"
+"CRC8_POLY_07","1","807","189","4","0","1000","0"
+"CRC8_POLY_07","2","655","342","3","0","1000","0"
+"CRC8_POLY_07","3","399","584","16","1","1000","0,1709"

@@ -1,0 +1,4 @@
+"tecnica","modo","OK","CORROMPIDO","PERDIDO","NAO_DETECTADO","total","taxa_nao_deteccao_percentual"
+"CRC8_POLY_07","1","807","189","4","0","1000","0"
+"CRC8_POLY_07","2","655","342","3","0","1000","0"
+"CRC8_POLY_07","3","399","584","16","1","1000","0,1709"

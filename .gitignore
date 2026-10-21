@@ -1,0 +1,14 @@
+# Arquivos gerados pela Arduino IDE
+build/
+*.bin
+*.elf
+*.map
+
+# Arquivos temporários do sistema/editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.tmp
+*.bak
+
+# Não ignorar os CSVs: eles fazem parte das evidências do trabalho.
