@@ -29,7 +29,7 @@ constexpr int UART_UNUSED_TX_PIN = 17;
 HardwareSerial monitoredUart(2);
 
 // ---------------------- Circuito de ruido -----------------
-constexpr int NOISE_CONTROL_PIN = 25;
+constexpr int NOISE_CONTROL_PIN = 18;
 constexpr uint8_t NOISE_OFF_LEVEL = LOW;
 constexpr uint8_t NOISE_ON_LEVEL = HIGH;
 
